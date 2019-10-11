@@ -33,10 +33,10 @@ namespace NetCoreTestService
             Stop();
         }
 
-        protected override void OnPause()
-        {
-            Pause();
-        }
+        //protected override void OnPause()
+        //{
+        //    Pause();
+        //}
 
         public void Start(string[] args)
         {
