@@ -1,0 +1,11 @@
+E:\_homeRepo\NetCoreTestService\bin\Debug\netcoreapp2.2\NetCoreTestService.deps.json
+E:\_homeRepo\NetCoreTestService\bin\Debug\netcoreapp2.2\NetCoreTestService.runtimeconfig.json
+E:\_homeRepo\NetCoreTestService\bin\Debug\netcoreapp2.2\NetCoreTestService.runtimeconfig.dev.json
+E:\_homeRepo\NetCoreTestService\bin\Debug\netcoreapp2.2\NetCoreTestService.dll
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.csprojAssemblyReference.cache
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.csproj.CoreCompileInputs.cache
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.AssemblyInfoInputs.cache
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.AssemblyInfo.cs
+E:\_homeRepo\NetCoreTestService\bin\Debug\netcoreapp2.2\NetCoreTestService.pdb
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.dll
+E:\_homeRepo\NetCoreTestService\obj\Debug\netcoreapp2.2\NetCoreTestService.pdb
